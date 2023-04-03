@@ -1,2 +1,0 @@
-senha: admin
-server name: MySQL80
